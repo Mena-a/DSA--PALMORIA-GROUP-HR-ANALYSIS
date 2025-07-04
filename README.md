@@ -21,5 +21,7 @@ The primary data source is a csv datatype
   - analysis the company's salary structure
   - show insight on rating base on gender
  
+   
+ 
   - 
   - show 
